@@ -25,8 +25,13 @@ Then, install the requirements by running the following code in the terminal
 `python2 -m pip install -r requirements.txt`
 
 ## Usage
-
 Enter Pepper's IP then press Connect button. If you are successfully connected, you will see pepper's camera view at the bottom in real time.
 
-
 ![Pepper-ChatGPT-GUI](pepper_chatgpt.png)
+
+## Acknowledgements
+This project is used for a social grounding project in collaboration with Eren Yildiz, Suna Bensch and Thomas Hellström
+
+## Special Thanks
+To the author of [WoZ4U](https://github.com/frietz58/WoZ4U) for code snippets to show how to connect to Pepper robots
+
